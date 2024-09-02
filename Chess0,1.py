@@ -6,8 +6,8 @@ positions_white_y = ["a", "b", "c", "d", "e", "f", "g", "h", "a", "b", "c", "d",
 positions_black_x = [7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8]
 positions_black_y = ["a", "b", "c", "d", "e", "f", "g", "h", "a", "b", "c", "d", "e", "f", "g", "h"]
 
-symbols_white = ["WP", "WP", "WP", "WP", "WP", "WP", "WP", "WP", "WR", "WH", "WB", "WQ", "WK", "WB", "WH", "WR"]
-symbols_black = ["BP", "BP", "BP", "BP", "BP", "BP", "BP", "BP", "BR", "BH", "BB", "BK", "BQ", "BB", "BH", "BR"]
+symbols_white = ["WP", "WP", "WP", "WP", "WP", "WP", "WP", "WP", "WR", "WH", "WB", "WK", "WQ", "WB", "WH", "WR"]
+symbols_black = ["BP", "BP", "BP", "BP", "BP", "BP", "BP", "BP", "BR", "BH", "BB", "BQ", "BK", "BB", "BH", "BR"]
 
 def render():
     print ("_________________________")
